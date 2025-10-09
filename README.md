@@ -90,6 +90,22 @@ Further studies on larger and more diverse datasets are needed for validation.
 
 ---
 
+### 📊 Results and Visualizations
+
+*1️ Calibration Curve (Predicted vs Actual Age)*
+![Calibration](fig_calibration.png)
+
+*2️ BAG vs Screen Time Correlation*
+![BAG vs Screen Time](fig_bag_vs_st.png)
+
+*3️ Error Distribution*
+![Error Histogram](fig_error_hist.png)
+
+*4️ BAG Distribution*
+![BAG Histogram](fig_bag_hist.png)
+
+---
+
 ###  Author
 
 *Khushi Tyagi*  
