@@ -110,7 +110,6 @@ Further studies on larger and more diverse datasets are needed for validation.
 
 *Khushi Tyagi*  
 B.Tech Student, *University of Petroleum and Energy Studies (UPES), Dehradun*  
- Interest Areas: Artificial Intelligence, Neuroscience, Cognitive Computing, and Digital Well-Being Research.
 
 ---
 
@@ -119,6 +118,3 @@ B.Tech Student, *University of Petroleum and Energy Studies (UPES), Dehradun*
 
 ---
 
-###  License
-This project is open for *academic and research purposes* only.  
-If you use or modify this work, please credit the author.
