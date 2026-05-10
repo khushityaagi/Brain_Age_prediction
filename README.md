@@ -22,7 +22,6 @@ The difference between these two values, known as the *Brain Age Gap (BAG)*, is 
 - MRI data is already cleaned, skull-stripped, and normalized.  
 - The IXI subset (healthy subjects) is used for model training.  
 - Screen time data is manually entered via a CSV file (screen_time_metadata.csv).  
-
 ---
 
 ###  Methodology
